@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#input-nome-produto {
+  width: 70%;
+}
+
+#input-qnt-produto {
+  width: 22%;
+}
